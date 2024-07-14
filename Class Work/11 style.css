@@ -1,0 +1,17 @@
+/* universal selector*/
+*{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* id selector*/
+#superheros{
+    text-decoration: line-through;
+    color: blueviolet;
+}
+.super{
+    background-color: brown;
+    color: antiquewhite;
+}
+p{
+    background-color: brown;
+}
